@@ -1,0 +1,10 @@
+E:\p3\p3\bin\Debug\p3.exe.config
+E:\p3\p3\bin\Debug\p3.exe
+E:\p3\p3\bin\Debug\p3.pdb
+E:\p3\p3\obj\Debug\p3.Form1.resources
+E:\p3\p3\obj\Debug\p3.Properties.Resources.resources
+E:\p3\p3\obj\Debug\p3.csproj.GenerateResource.Cache
+E:\p3\p3\obj\Debug\p3.exe
+E:\p3\p3\obj\Debug\p3.pdb
+E:\p3\p3\obj\Debug\p3.Form2.resources
+E:\p3\p3\obj\Debug\p3.csprojResolveAssemblyReference.cache
